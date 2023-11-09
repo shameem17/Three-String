@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     int t;
+    //test case input
     cin>>t;
     string a,b,c;
     while(t--)
@@ -33,5 +34,6 @@ int main()
 
         }
     }
+    //return
     return 0;
 }
